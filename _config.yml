@@ -1,7 +1,9 @@
-title: the Simplex theme
+title: the Simplex theme11
 logo_img: /assets/img/icons/golasblog_logo.svg
 favicon: /assets/favicon.ico
 description: description
+url: https://transpc.github.io
+baseurl: /testpage.github.io
 global_tags: jekyll theme simplex golasblog responsive html5
 copyright: © Golasowski 2021
 
